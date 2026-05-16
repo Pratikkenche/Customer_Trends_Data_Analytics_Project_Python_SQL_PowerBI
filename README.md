@@ -107,7 +107,8 @@ Performed SQL queries for:
 ---
 
 ## Dashboard Preview
-(Add dashboard screenshots here)
+![Customer_Behavior_Dashboard](customer_behavior_dashboard.png)
+
 
 ---
 
